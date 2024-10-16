@@ -32,13 +32,13 @@ def generate_response(question, llm, temperature, max_tokens):
     return answer
 
 ## Title
-st.title("Enhanced Q&A Chatbot with Open AI")
+st.title("Enhanced Q&A Chatbot with Ollama")
 
 ## Sidebar for API-KEY
 st.sidebar.title("Settings")
 
 ## Dropdown to select the preferred model
-llm = st.sidebar.selectbox("Select an Open AI Model", 
+llm = st.sidebar.selectbox("Select an Ollama Model", 
                            ("llama3", "llama2", "gemma:2b")
                            )
 
