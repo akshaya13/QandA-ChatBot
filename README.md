@@ -1,4 +1,7 @@
 # Q&A ChatBot with Ollama
+
+### Demo: https://akshaya-chatbot-ollama.streamlit.app/
+
 A Q&A Chatbot built using Streamlit that allows users to interact with various AI models like Llama3, Llama2, and Gemma:2b for generating responses to user queries. The project integrates LangChain for prompt management and Ollama for accessing different models, providing a flexible and customizable chatbot experience.
 
 ## Tech Stack:
@@ -13,6 +16,8 @@ Python, Streamlit, LangChain, Ollama (llama3, llama2, gemma:2b), Langsmith
 * Environment Configuration: Uses .env files for secure API key management and tracking settings with Langsmith.
 
 # Q&A ChatBot with OpenAI
+
+### Demo: https://akshaya-chatbot-openai.streamlit.app/
 
 A Q&A Chatbot application using Streamlit that enables users to interact with OpenAI models like GPT-4. It leverages LangChain's prompt management to streamline query processing and OpenAI's API for generating responses. The app offers customization options for the model's behavior through adjustable parameters.
 
