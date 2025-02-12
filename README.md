@@ -1,4 +1,4 @@
-# Q&A ChatBot with Ollama
+# Conversational Q&A ChatBot with Ollama
 
 ### Demo: https://akshaya-chatbot-ollama.streamlit.app/
 
